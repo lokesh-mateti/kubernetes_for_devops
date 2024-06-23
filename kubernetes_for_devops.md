@@ -1,4 +1,4 @@
- Here’s a comprehensive tutorial on Kubernetes, covering its fundamentals, components, architecture, and practical examples:
+a comprehensive tutorial on Kubernetes, covering its fundamentals, components, architecture, and practical examples:
 
 ### What is Kubernetes?
 
@@ -36,8 +36,6 @@ Kubernetes uses various objects to define the desired state of the application:
 - **Deployments**: Manages ReplicaSets and provides declarative updates to pods.
 - **Services**: Provides networking and IP address for pods, enabling communication between different pods.
 - **Volumes**: Provides storage to pods and containers in the cluster.
-
-### Tutorial Sections
 
 #### 1. **Setting Up Kubernetes**
 
